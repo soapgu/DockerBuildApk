@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DockerBuildApk</string>
+    <string name="hello_build_by_docker">Build by Docker!Plus</string>
 </resources>
